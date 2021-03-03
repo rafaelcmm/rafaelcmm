@@ -12,6 +12,8 @@ Want to check how I configure my 🐧 environment? [Click here](https://github.c
 
 
 - CTO @ [Qwkin LLC](https://www.qwkin.com)
+- Author @ [torch_controller](https://pub.dev/packages/torch_controller)
+- Author @ [storage_controller](https://pub.dev/packages/storage_controller)
 - Maintainer @ [flutter_clean_architecture](https://pub.dev/packages/flutter_clean_architecture)
 - Contributor @ [firebase_ml_vision](https://pub.dev/packages/firebase_ml_vision)
 - Contributor @ [requests](https://pub.dev/packages/requests)
