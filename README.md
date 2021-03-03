@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcmm&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcmm&show_icons=true&count_private=true&theme=radical)
 
 ## About
 
@@ -18,7 +18,10 @@ Want to check how I configure my 🐧 environment? [Click here](https://github.c
 - Contributor @ [firebase_ml_vision](https://pub.dev/packages/firebase_ml_vision)
 - Contributor @ [requests](https://pub.dev/packages/requests)
 
--  ⚡ Skills: Dart / Flutter / Javascript / Typescript / Java / AWS / Google Cloud / A lot more
+⚡ Skills: Dart / Flutter / Javascript / Typescript / Java / AWS / Google Cloud / A lot more
+
+## Fun Details
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcmm&layout=compact&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
