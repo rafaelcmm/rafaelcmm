@@ -17,6 +17,7 @@ Want to check how I configure my 🐧 environment? [Click here](https://github.c
 - Maintainer @ [flutter_clean_architecture](https://pub.dev/packages/flutter_clean_architecture)
 - Contributor @ [firebase_ml_vision](https://pub.dev/packages/firebase_ml_vision)
 - Contributor @ [requests](https://pub.dev/packages/requests)
+- Contributor @ [melos](https://github.com/invertase/melos)
 
 ⚡ Skills: Dart / Flutter / Javascript / Typescript / Java / AWS / Google Cloud / A lot more
 
