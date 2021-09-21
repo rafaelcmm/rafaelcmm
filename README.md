@@ -18,6 +18,7 @@ Want to check how I configure my 🐧 environment? [Click here](https://github.c
 - Contributor @ [firebase_ml_vision](https://pub.dev/packages/firebase_ml_vision)
 - Contributor @ [requests](https://pub.dev/packages/requests)
 - Contributor @ [melos](https://github.com/invertase/melos)
+- Contributor @ [siberia](https://github.com/kassiano/siberia)
 
 ⚡ Skills: Dart / Flutter / Javascript / Typescript / Java / AWS / Google Cloud / A lot more
 
