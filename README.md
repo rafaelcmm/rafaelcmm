@@ -11,7 +11,7 @@ Want to check how I configure my  environment? [Click here](https://github.co
 Want to check how I configure my 🐧 environment? [Click here](https://github.com/rafaelcmm/my-env)
 
 
-- Front-end Specialist @ [Qwkin LLC](https://www.qwkin.com)
+- Principal Software Engineer @ [FullStack Labs](https://www.fullstacklabs.co/)
 - Author @ [torch_controller](https://pub.dev/packages/torch_controller)
 - Author @ [storage_controller](https://pub.dev/packages/storage_controller)
 - Maintainer @ [flutter_clean_architecture](https://pub.dev/packages/flutter_clean_architecture)
