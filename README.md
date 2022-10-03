@@ -2,9 +2,7 @@
 
 ## About
 
-I'm a fullstack 🇧🇷 software architect, currently engaged on make your condominium experience better!
-
-Want to check it? Just [Click Here](https://www.qwkin.com)!
+I'm a fullstack 🇧🇷 software architect, currently engaged frontend architecture
 
 Want to check how I configure my  environment? [Click here](https://github.com/rafaelcmm/my-osx-env)
 
